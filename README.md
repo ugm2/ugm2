@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an AI Engineer Consultant at [AtomizedLTD](https://github.com/atomizedltd) and we are actively working for the company [Sorcero](https://www.sorcero.com/). 
+
+Currently, we are using Gitlab as the de facto control version and collaboration tool. You can check out my Gitlab profile at [ugmSorcero](https://gitlab.com/ugmSorcero)
+
 <!--
 **ugm2/ugm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
