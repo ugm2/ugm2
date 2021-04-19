@@ -2,6 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ugaray96?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/ugm2?style=social)
+![Unai's Github profile views](https://komarev.com/ghpvc/?username=ugm2)
 
 
 I am an AI Engineer Consultant at <a href="https://github.com/atomizedltd"> <img alt="GitHub" src="https://img.shields.io/badge/atomizedltd%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> and we are actively working for the company <a href="https://www.sorcero.com/"> <img alt="GitLab" src="https://img.shields.io/badge/Sorcero%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a>
@@ -31,9 +32,9 @@ Currently, we are using Gitlab as the de facto control version and collaboration
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugm2&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Unai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugm2&hide=java,html,css&theme=tokyonight)
 &emsp;
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugm2&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Unai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugm2&theme=tokyonight)
 
 <!--
 **ugm2/ugm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
