@@ -22,7 +22,7 @@ Currently, we are using Gitlab as the de facto control version and collaboration
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Visual Studio Code Logo" width="50" height="50"/> <img alt="Keras" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" width="50" height="50"/> <img alt="Pytorch" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/transformers_logo_name.png" alt="Transformers Logo" width="290" height="50"/> 
+<img src="https://cdn.worldvectorlogo.tcom/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Visual Studio Code Logo" width="50" height="50"/> <img alt="Keras" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" width="50" height="50"/> <img alt="Pytorch" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Logo" width="50" height="50"/>  <img src="https://aws1.discourse-cdn.com/standard14/uploads/hellohellohello/original/1X/a0a628441848519a48682665ed6d7dad032927d3.svg" alt="Transformers Logo" width="290" height="50"/> 
 
 
 
