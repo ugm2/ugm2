@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=ugm2)
 
 
-I am an AI Engineer Consultant at <a href="https://github.com/atomizedltd"> <img alt="GitHub" src="https://img.shields.io/badge/atomizedltd%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> and we are actively working for the company <a href="https://www.sorcero.com/"> <img alt="GitLab" src="https://img.shields.io/badge/Sorcero%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+I am an AI Engineer at <a href="https://www.sorcero.com/"> <img alt="GitLab" src="https://img.shields.io/badge/Sorcero%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 
 Currently, we are using Gitlab as the de facto control version and collaboration tool. You can check out my Gitlab profile at <a href="https://gitlab.com/ugmSorcero"> <img alt="GitLab" src="https://img.shields.io/badge/ugmSorcero%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 
