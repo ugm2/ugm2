@@ -32,7 +32,7 @@ Currently, we are using Gitlab as the de facto control version and collaboration
 
 ## &#x1f4c8; My GitHub Stats
 
-![Unai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugm2&hide=java,html,css&theme=tokyonight)
+![Unai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugm2&hide=jupyter%20notebook,java,html,css&theme=tokyonight)
 &emsp;
 ![Unai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugm2&theme=tokyonight)
 
