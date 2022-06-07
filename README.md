@@ -11,16 +11,24 @@ Currently, we are using Gitlab as the de facto control version and collaboration
 
 ---
 
-📱 Social Networks
+## 👨🏻‍💻 Relevant Work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=ImagineS&theme=github_dark&hide_border=true)](https://github.com/ugm2/ImagineS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=Image-Classification-of-Retail-Products&theme=github_dark&hide_border=true)](https://github.com/ugm2/Image-Classification-of-Retail-Products)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=DataAugmentation_VAE&theme=github_dark&hide_border=true)](https://github.com/ugm2/DataAugmentation_VAE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=annual-report-intelligent-search&theme=github_dark&hide_border=true)](https://github.com/ugm2/annual-report-intelligent-search)
+
+---
+
+## 📱 Social Networks
 
 <a href="https://www.instagram.com/ugaray96/"> <img alt="Instagram" src="https://img.shields.io/badge/@ugaray96%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ugm96/"><img alt="LinkedIn" src="https://img.shields.io/badge/Unai Garay Maestre%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/ugaray96"><img alt="Twitter" src="https://img.shields.io/badge/ugaray96%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
----
 
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Visual Studio Code Logo" width="50" height="50"/> <img alt="Keras" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" width="50" height="50"/> <img alt="Pytorch" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Logo" width="50" height="50"/>  <img src="https://aws1.discourse-cdn.com/standard14/uploads/hellohellohello/original/1X/a0a628441848519a48682665ed6d7dad032927d3.svg" alt="Transformers Logo" width="50" height="50"/> 
 
@@ -32,9 +40,9 @@ Currently, we are using Gitlab as the de facto control version and collaboration
 
 ## &#x1f4c8; My GitHub Stats
 
-![Unai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugm2&hide=jupyter%20notebook,java,html,css&theme=tokyonight)
+![Unai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugm2&hide=jupyter%20notebook,java,html,css&theme=github_dark&hide_border=true)
 &emsp;
-![Unai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugm2&theme=tokyonight)
+![Unai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugm2&theme=github_dark&hide_border=true)
 
 <!--
 **ugm2/ugm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
