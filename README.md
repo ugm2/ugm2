@@ -16,7 +16,7 @@ Currently, we are using Gitlab as the de facto control version and collaboration
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=ImagineS&theme=github_dark&hide_border=true)](https://github.com/ugm2/ImagineS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=Image-Classification-of-Retail-Products&theme=github_dark&hide_border=true)](https://github.com/ugm2/Image-Classification-of-Retail-Products)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=DataAugmentation_VAE&theme=github_dark&hide_border=true)](https://github.com/ugm2/DataAugmentation_VAE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=annual-report-intelligent-search&theme=github_dark&hide_border=true)](https://github.com/ugm2/annual-report-intelligent-search)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=neural-search&theme=github_dark&hide_border=true)](https://github.com/ugm2/neural-search)
 
 ---
 
