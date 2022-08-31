@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
+### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ugaray96?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/ugm2?style=social)
