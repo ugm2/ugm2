@@ -9,6 +9,8 @@ I am an AI Engineer at <a href="https://www.sorcero.com/"> <img alt="GitLab" src
 
 Currently, we are using Gitlab as the de facto control version and collaboration tool. You can check out my Gitlab profile at <a href="https://gitlab.com/ugmSorcero"> <img alt="GitLab" src="https://img.shields.io/badge/ugmSorcero%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 
+As a side project, I'm working on an AI videogame project called [Guexit](guexit.com).
+
 Check out my personal website: [ugm2.github.io](https://ugm2.github.io)
 
 ---
