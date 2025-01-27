@@ -18,7 +18,7 @@ Check out my personal website: [ugm2.github.io](https://ugm2.github.io)
 ## 👨🏻‍💻 Relevant Work
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=ImagineS&theme=github_dark&hide_border=true)](https://github.com/ugm2/ImagineS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=Marca-Tu-Ritmo&theme=github_dark&hide_border=true)](https://github.com/ugm2/Marca-Tu-Ritmo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=Image-Classification-of-Retail-Products&theme=github_dark&hide_border=true)](https://github.com/ugm2/Image-Classification-of-Retail-Products)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=DataAugmentation_VAE&theme=github_dark&hide_border=true)](https://github.com/ugm2/DataAugmentation_VAE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugm2&repo=neural-search-demo&theme=github_dark&hide_border=true)](https://github.com/ugm2/neural-search-demo)
 
