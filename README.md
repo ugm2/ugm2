@@ -47,7 +47,6 @@ Check out my personal website: [ugm2.github.io](https://ugm2.github.io)
 ![Unai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugm2&hide=jupyter%20notebook,java,html,css&theme=github_dark&hide_border=true)
 &emsp;
 ![Unai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugm2&theme=github_dark&hide_border=true)
-[![Unai's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ugm2)]
 
 <!--
 **ugm2/ugm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
