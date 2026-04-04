@@ -44,7 +44,7 @@ As a side project, I'm working on an AI videogame project called [Guexit](https:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ugm2&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Unai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugm2&hide=jupyter%20notebook,java,html,css&theme=github_dark&hide_border=true&layout=compact)](https://github.com/ugm2)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ugm2&theme=github_dark)](https://github.com/ugm2)
 
 <!--
 **ugm2/ugm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
