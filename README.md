@@ -5,13 +5,13 @@
 ![](https://komarev.com/ghpvc/?username=ugm2)
 
 
-I am an AI Engineer at <a href="https://www.sorcero.com/"> <img alt="GitLab" src="https://img.shields.io/badge/Sorcero%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+I am an AI Engineer at <a href="https://www.tekever.com/"> <img alt="Tekever" src="https://img.shields.io/badge/Tekever%20-%23181717.svg?&style=for-the-badge&logoColor=white"/></a>
 
-Currently, we are using Gitlab as the de facto control version and collaboration tool. You can check out my Gitlab profile at <a href="https://gitlab.com/ugmSorcero"> <img alt="GitLab" src="https://img.shields.io/badge/ugmSorcero%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-
-As a side project, I'm working on an AI videogame project called [Guexit](https://guexit.com).
+Working on NLP and LLM related projects, building intelligent systems for drone technology.
 
 Check out my personal website: [ugm2.github.io](https://ugm2.github.io)
+
+As a side project, I'm working on an AI videogame project called [Guexit](https://guexit.com).
 
 ---
 
@@ -34,9 +34,7 @@ Check out my personal website: [ugm2.github.io](https://ugm2.github.io)
 
 ## 🧰 Toolbox
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Visual Studio Code Logo" width="50" height="50"/> <img alt="Keras" src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/05/keras-logo-small-wb-1.png" width="50" height="50"/> <img alt="Pytorch" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Logo" width="50" height="50"/>  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Transformers Logo" width="50" height="50"/> 
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow Logo" width="50" height="50"/> <img alt="Pytorch" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Logo" width="50" height="50"/> <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="HuggingFace Transformers Logo" width="50" height="50"/> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain Logo" width="50" height="50"/> <img src="https://avatars.githubusercontent.com/u/51827949?s=200&v=4" alt="Haystack Logo" width="50" height="50"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code Logo" width="50" height="50"/> <img src="https://miro.medium.com/max/512/1*Ldt9nXA7_jaEzcVgL7rclQ.png" alt="Jupyter Notebook Logo" width="50" height="50"/>
 
@@ -53,10 +51,10 @@ Check out my personal website: [ugm2.github.io](https://ugm2.github.io)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
